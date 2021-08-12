@@ -1,0 +1,5 @@
+org\kie\kogito\legacy\LoanDto.class
+org\kie\kogito\legacy\KogitoSpringbootApplication.class
+org\kie\kogito\legacy\FindApprovedLoansEndpoint.class
+org\kie\kogito\legacy\Applicant.class
+org\kie\kogito\legacy\LoanApplication.class
